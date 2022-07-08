@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main()
+{
+int;a,b,sum,m,s,d,mod;
+print f,("emter the first number"\n);
+scan f,("%d",&a);
+print f,("enter the second number"\n);
+scan f,("%d",&b);
+
+sum=a+b;
+m=a*b;
+s=a-b;
+d=a/b;
+mod=/sum/,/m/,/s/,/d/;
+
+print f,("sum=%d\n",sum);
+print f,("product=%d\n",m);
+print f,("difference=%d\n",s);
+print f,("quotient=%d\n",d);
+print f,("modulus=%d\n",mod);
+print f,("thank you");
+
+return 0;
+}
